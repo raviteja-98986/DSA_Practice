@@ -35,3 +35,6 @@ def merge_array(left_half, right_half):
 
 arr = [1, 5, 8, 9, 3, 2]
 print(merge_sort(arr))
+
+#Time complexity of merge_sort is o(n log n)
+#space complexity is o(n)

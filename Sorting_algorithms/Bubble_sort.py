@@ -9,5 +9,5 @@ arr = [1, 5, 8, 9, 3, 2]
 Bubble_sort(arr)
 
 
-#Time complexity of selection sort is o(n^2)
+#Time complexity of Bubble sort is o(n^2)
 #space complexity is o(1)

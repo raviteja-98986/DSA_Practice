@@ -12,5 +12,5 @@ def insertion_sort(arr):
 arr = [1, 5, 8, 9, 3, 2]
 insertion_sort(arr)
 
-#Time complexity of selection sort is o(n(n+1)/2) ie o(n^2)
+#Time complexity of insertion sort is o(n(n+1)/2) ie o(n^2)
 #space complexity is o(1)
